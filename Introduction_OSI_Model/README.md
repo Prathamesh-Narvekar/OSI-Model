@@ -1,4 +1,9 @@
 # Introduction to OSI Model
+
+<div align = center>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3505ee1e-1025-4c1a-9241-ca110f7aa2b9" />
+</div>
+
 ## What is the OSI Model?
 The OSI (Open Systems Interconnection) Model is a conceptual framework developed by the International Organization for Standardization (ISO). It standardizes how different networking systems communicate over a network by dividing the communication process into seven distinct layers. Each layer has specific responsibilities and interacts with the layers directly above and below it.	
 
